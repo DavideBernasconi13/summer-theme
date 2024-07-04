@@ -158,11 +158,11 @@
 
         .hero__img img {
             display: block;
-            height: 100%;
-            aspect-ratio: 1/1;
+            /* height: 100%;
+            aspect-ratio: 1/1; */
         }
 
-        .square {
+        /* .square {
             background-color: #22cd84;
             height: 50px;
             width: 50px;
@@ -177,8 +177,7 @@
             bottom: 10%;
             left: -5%;
             z-index: 999;
-        }
-
+        } */
         @media (max-width: 768px) {
 
             .hero__text,
