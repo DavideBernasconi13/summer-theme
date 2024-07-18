@@ -224,6 +224,10 @@
             height: auto;
         }
 
+        .text-center {
+            text-align: center;
+        }
+
         .debug {
             border: 1px solid red;
         }
